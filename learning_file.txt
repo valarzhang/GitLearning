@@ -13,6 +13,13 @@ gitlab中settings->collabrators 添加合作用户
 
 git commit -m
 
+
 git log
+
+
+//素质三连
+git add .
+git commit -m '备注'
+git push
 
 
