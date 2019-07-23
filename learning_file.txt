@@ -13,4 +13,6 @@ gitlab中settings->collabrators 添加合作用户
 
 git commit -m
 
+git log
+
 
