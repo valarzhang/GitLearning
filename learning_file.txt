@@ -29,3 +29,6 @@ git rebase --abort
 
 //commit 1
 git add .
+
+//commit 2
+git add .
