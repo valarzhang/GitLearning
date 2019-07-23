@@ -26,3 +26,6 @@ git pull --rebase
 git rebase --continue
 
 git rebase --abort
+
+//commit 1
+git add .
