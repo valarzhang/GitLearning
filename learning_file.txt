@@ -6,3 +6,5 @@ git checkout -b
 git branch -d
 git pull
 git push
+
+git push origin --delete test_zfl
