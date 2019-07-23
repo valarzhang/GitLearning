@@ -8,3 +8,6 @@ git pull
 git push
 
 git push origin --delete test_zfl
+
+git commit -m
+
